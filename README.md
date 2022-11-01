@@ -1,3 +1,4 @@
+[![Open in Codespaces](https://classroom.github.com/assets/launch-codespace-9f69c29eadd1a2efcce9672406de9a39573de1bdf5953fef360cfc2c3f7d7205.svg)](https://classroom.github.com/open-in-codespaces?assignment_repo_id=9159536)
 # Circuit-design-lab
 
 The write-up for the "Circuit Design" lab. There's no code or other materials for this lab, but it does use the [Logisim program](http://www.cburch.com/logisim/index.html) as the circuit design tool.
